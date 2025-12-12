@@ -1,0 +1,5 @@
+{
+  "name": "Copy of HealMate AI",
+  "description": "A safe, multilingual health triage assistant providing non-diagnostic assessments and care pathways using Gemini.",
+  "requestFramePermissions": []
+}
